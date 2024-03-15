@@ -1,11 +1,8 @@
-package ems.example.ems.models;
+package ems.example.ems;
 
 import jakarta.persistence.*;
 
-<<<<<<< HEAD
-=======
 
->>>>>>> b1994cd968b06f9cd5a320fb485fa50d1072fca4
 @Entity
 @Table(name = "signup_table")
 public class Signup {
